@@ -88,7 +88,8 @@ What makes it unique?
 
 ---
 
-# 🍪 Day 9: Configuration Over Customization - A Recipe for Joy 
+# 🍪 Day 9: Configuration Over Customization - A Recipe for Joy
+
 + Configure the site generation process instead of changing the source code
 
 ---
@@ -113,6 +114,8 @@ What makes it unique?
 + https://11ty.dev 
 + Clone our website!
 + Make your own website!
+
+---
 
 # Thank You and Happy Holidays!
 
