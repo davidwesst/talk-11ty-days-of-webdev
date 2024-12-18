@@ -1,0 +1,18 @@
+{
+  "name": "talk-11ty-days-of-webdev",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "workspaces": [
+    "demo"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "marp --preview ./slides"
+  },
+  "author": "David Wesst <david@cocobokostudios.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.0.3"
+  }
+}
